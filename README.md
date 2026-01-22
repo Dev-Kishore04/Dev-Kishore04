@@ -2,7 +2,7 @@
 
 🔍 I’m interested in building impactful projects that solve real-world problems and exploring new technologies.
 
-🌱 I’m currently learning Python, web development (HTML, CSS, JavaScript), and UI design.
+🌱 I’m currently learning java, web development (HTML, CSS, JavaScript), and UI design.
 
 👯 I’m looking to collaborate on open-source projects, innovative web applications, and community-driven solutions.
 
